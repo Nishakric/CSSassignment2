@@ -1,0 +1,45 @@
+.main {
+    margin: 30px;
+    padding: 10px;
+}
+
+ul {
+    position: sticky;
+    top: 0px;
+}
+
+
+ul li {
+
+    display: inline;
+    list-style: circle;
+}
+
+a {
+    text-decoration: none;
+    height: 200px;
+    width: 1050px;
+    font-weight: 400px;
+    font-variant: small-caps;
+    background-color: rgb(238, 243, 244);
+    color: black;
+    font-size: xx-large;
+padding: 10px 15px;
+    font-stretch: extra-expanded;
+font-style: italic;}
+
+img{
+    height: 500px;
+    width: 750px;
+    border: 5px solid black;
+}
+
+    h1 {
+        color: blue;
+    }
+
+    p {
+        font-style: normal;
+        text-transform: capitalize;
+        text-align: justify;
+    }
