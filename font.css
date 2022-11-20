@@ -1,0 +1,36 @@
+@font-face{
+    font-family: heading;
+    src:url(font/Salt\ Debris.otf)
+}
+
+
+h1{
+font-variant: small-caps;
+    
+    font-family: heading;
+    font-size: xx-large;
+    
+font-style: italic;
+text-align: center;
+font-weight: 500px;
+color: black;
+
+}
+p{
+    text-align: justify;
+text-decoration: underline;
+text-transform: capitalize;
+word-spacing: 1px;
+
+}
+h4{
+   font-family: heading;
+    text-shadow: 5px 5px 15px rgb(131, 21, 21);
+    text-align: center;
+    text-decoration: dotted;
+font-weight: 500px;
+font-size: larger;
+text-transform: lowercase;
+text-rendering: optimizeLegibility;
+
+}
